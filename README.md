@@ -1,6 +1,6 @@
-<h1 align="center📗  Front-end-Notes 📘</h1>
+<h1 align="center"> 📗  Front-end-Notes 📘</h1>
 
-前端笔记汇总,目录结构如下
+前端笔记汇总
 
 ```cpp
 .
